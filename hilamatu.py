@@ -1,1 +1,3 @@
-print("Hello from Hyrum Hilamatu")
+def hyrum_greeting():
+
+    print("Hello from Hyrum Hilamatu")
